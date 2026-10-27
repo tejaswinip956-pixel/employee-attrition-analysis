@@ -2,7 +2,7 @@
 
 An end-to-end data analytics project that finds **why employees leave** and **who is most at risk**, using Python for analysis and Power BI for an interactive dashboard.
 
-![Dashboard](dashboard.png)
+![Dashboard](Employee_Attrition_Dashboard%20%282%29.png)
 
 ## Business problem
 HR wants to understand the drivers of employee attrition so it can take action before good employees leave.
